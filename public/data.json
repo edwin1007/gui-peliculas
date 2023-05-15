@@ -1,38 +1,45 @@
 [
     {
       "id": "1",
-      "Title": "Avatar",
-      "Poster": "media/avatar.jpg",
+      "Title": "amburguesa-y-gaseosa",
+      "Poster": "media/amburguesa-y-gaseosa.jpg",
       "Year": "2009",
       "Type": "movie"
     },
     {
       "id": "2",
-      "Title": "Titanic",
+      "Title": "perro-y-gaseosa",
       "Year": "1997",
-      "Poster": "media/titanic.jpg",
+      "Poster": "media/perro-y-gaseosa.jpg",
       "Type": "movie"
     },
     {
       "id": "3",
-      "Title": "Star Wars: The Force Awakens",
+      "Title": "alitas-barbiqui",
       "Year": "2015",
-      "Poster": "media/star_wars_the_force_awakens.jpg",
+      "Poster": "media/alitas-barbiqui.jpg",
       "Type": "movie"
     },
     {
       "id": "4",
-      "Title": "Avengers: Infinity War",
+      "Title": "alitas-apanadas",
       "Year": "2018",
       "amount": "$2,048,359,754",
-      "Poster": "media/avengers_infinity_war.jpg",
+      "Poster": "media/alitas-apanadas.jpg",
       "Type": "movie"
     },
     {
       "id": "5",
-      "Title": "Jurassic World",
+      "Title": "alitas-al-horno",
       "Year": "2015",
-      "Poster": "media/jurassic_world.jpg",
+      "Poster": "media/alitas-al-horno.jpg",
+      "Type": "movie"
+    }, 
+    {
+      "id": "6",
+      "Title": "alitas-broaster",
+      "Year": "2015",
+      "Poster": "media/alitas-broaster.jpg",
       "Type": "movie"
     }
   ]
