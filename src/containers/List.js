@@ -20,11 +20,15 @@ class List extends React.Component{
     }
 
     render(){
-        return this.state.data.map(movie => {
-            return <div>
-                <h1>{movie.Title}</h1>
+        return (
+            <div className="row">
+                {
+                    this.state.data.map(movie => {
+                        return <Card movie={movie}/>
+                    })
+                }
             </div>
-        })
+        )
     }
 }
 
