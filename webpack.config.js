@@ -1,4 +1,4 @@
-//const plugins = require('@babel/preset-env/lib/plugins-compat-data');
+const plugins = require('@babel/preset-env/lib/plugins-compat-data');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const htmlPlugin = new HtmlWebpackPlugin({
@@ -17,6 +17,15 @@ module.exports = {
             {
                 test: /\.css$/,
                 use: ['style-loader', 'css-loader']
+            },
+            {
+                test: /\.(png|jpg|gif)$/,
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: {}
+                    }
+                ]
             }
         ]
     },

@@ -1,13 +1,19 @@
 [
     {
       "id": "1",
+<<<<<<< HEAD
       "Title": "amburguesa-y-gaseosa",
       "Poster": "media/amburguesa-y-gaseosa.jpg",
+=======
+      "Title": "Alitas apanadas",
+      "Poster": "media/alitas-apanadas.jpg",
+>>>>>>> 6309cf581c3cb8f8128d70ec2e851ea2fcd3e7ee
       "Year": "2009",
-      "Type": "movie"
+      "Type": "food"
     },
     {
       "id": "2",
+<<<<<<< HEAD
       "Title": "perro-y-gaseosa",
       "Year": "1997",
       "Poster": "media/perro-y-gaseosa.jpg",
@@ -41,5 +47,40 @@
       "Year": "2015",
       "Poster": "media/alitas-broaster.jpg",
       "Type": "movie"
+=======
+      "Title": "Alitas barbiqui",
+      "Year": "1997",
+      "Poster": "media/alitas-barbiqui.jpg",
+      "Type": "food"
+    },
+    {
+      "id": "3",
+      "Title": "Alitas broaster",
+      "Year": "2015",
+      "Poster": "media/alitas-broaster.jpg",
+      "Type": "food"
+    },
+    {
+      "id": "4",
+      "Title": "Alitas al horno",
+      "Year": "2018",
+      "amount": "$2,048,359,754",
+      "Poster": "media/alitas-al-horno.jpg",
+      "Type": "food"
+    },
+    {
+      "id": "5",
+      "Title": "Perro y gaseosa",
+      "Year": "2015",
+      "Poster": "media/perro-y-gaseosa.jpg",
+      "Type": "food"
+    },
+    {
+      "id": "6",
+      "Title": "Amburguesa",
+      "Year": "2015",
+      "Poster": "media/amburguesa-y-gaseosa.jpg",
+      "Type": "food"
+>>>>>>> 6309cf581c3cb8f8128d70ec2e851ea2fcd3e7ee
     }
   ]

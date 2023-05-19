@@ -35,3 +35,4 @@ npm i bootswatch ... --force; salia error...
 npm i css-loader style-loader; enteder css con webpack
 ver cambios en webpack.config
 npm start
+npm install file-loader --save-dev
